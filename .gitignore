@@ -1,0 +1,22 @@
+node_modules/
+.claude/
+.agents/
+.windsurf/
+
+# Prisma generated client
+/src/generated/
+
+# SQLite database
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Downloaded images storage
+/storage/
+
+# Logs
+*.log
+
+# Environment secrets
+.env
